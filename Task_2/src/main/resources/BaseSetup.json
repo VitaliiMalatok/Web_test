@@ -1,0 +1,7 @@
+{
+  "url": "https://store.steampowered.com",
+  "chromeParameter": "--incognito",
+  "browserName": "Chrome",
+  "baseBrowserName": "Chrome",
+  "path": "src/main/resources/basesetup.json"
+}
